@@ -1,2 +1,2 @@
-## Data Engineering Azure Learnings
-## Azure AWS Databases
+## Data Engineering AWS Learnings
+## AWS Databases
